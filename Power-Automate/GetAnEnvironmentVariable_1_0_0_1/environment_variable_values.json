@@ -1,0 +1,9 @@
+{
+  "EnvironmentVariableValues": [
+    {
+      "EnvironmentVariableDefinition.SchemaName": "noi_SearchEngine",
+      "EnvironmentVariableValueId": "bfc14858-67bd-ea11-a812-000d3a8527ae",
+      "Value": "https://www.google.co.jp/"
+    }
+  ]
+}
